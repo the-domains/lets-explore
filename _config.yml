@@ -1,20 +1,4 @@
-name: Lets Explore
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.32225
-title: Lets Explore
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,22 @@ color:
   lightness: 0.6389671913348138
   saturation: 0.9242815400939435
   rhythmicContrast: 0.3753732806071639
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Lets Explore
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Lets Explore
+content: []
 purpose: []
